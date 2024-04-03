@@ -1,8 +1,14 @@
 # TheBridgeGame
 
 
-#### 요구 정의 및 분석 산출물 (Requirements And Analysis Output)
+#### 요구 정의 및 분석 산출물 (Requirements And Analysis Outputs)
 
-![alt 토마토](/요구정의및분석산출물/tomato.jpg)
+* [NFR](/RequirementsOutput/1.NFR.pdf)
+* [Sequence Diagram](/RequirementsOutput/sequence diagram.pdf)
+* [Use Case Diagram](/RequirementsOutput/Use case diagram.pdf)
 
+  
+#### 설계 산출물 (Architecture Outputs)
+
+* [Class Diagram](/ArchitectureOutput/class diagram.pdf)
 
